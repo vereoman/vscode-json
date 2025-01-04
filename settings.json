@@ -15,7 +15,7 @@
     "explorer.confirmDragAndDrop": false,
     "editor.fontSize": 16,
     "terminal.integrated.fontSize": 16,
-    "terminal.integrated.fontFamily": "'JetBrains Mono'",
+    "terminal.integrated.fontFamily": "'JetBrains Mono', 'Fira Code'",
     "git.autofetch": true,
     "git.enableSmartCommit": true,
     "git.confirmSync": false,
