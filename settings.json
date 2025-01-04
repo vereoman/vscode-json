@@ -6,7 +6,7 @@
     "editor.cursorSmoothCaretAnimation": "on",
     "code-runner.clearPreviousOutput": true,
     "editor.links": false,
-    "editor.fontFamily": "'Fira Code', 'JetBrains Mono', 'Space Mono', Consolas",
+    "editor.fontFamily": "'JetBrains Mono', 'Fira Code', 'Space Mono', Consolas",
     "editor.fontLigatures": true,
     "window.title": " ",
     "editor.hover.enabled": false,
